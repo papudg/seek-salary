@@ -1,0 +1,2 @@
+str = '<a class="_1rct8jy4 _1rct8jy6 _1rct8jy9 lnocuo2 _1rct8jya _1rct8jyd _1wkzzau0 _1wkzzauf a1msqih" data-automation="jobTitle" href="/job/67014959?type=promoted" target="_self">Junior Business Analyst With AI Focus</a>'
+print("promoted" in str)
